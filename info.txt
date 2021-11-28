@@ -1,0 +1,39 @@
+1. How can we redefine macro with different values?
+
+2. What do you think is the purpose of the System class?
+
+3. What happens when we use the increment operator in a pointer?
+
+4. What is Patching in Oracle Apps DBA
+
+5. What is the immediate superclass of the Applet class?
+
+6. What do you mean by RDBMS?
+
+7. How can we assign one array to another?
+
+8. What is the order of operator precedence, left to right or right to left?
+
+9. What do you mean by a field in a database?
+
+10. What benefits or losses did citizens face post-demonetization?
+
+11. What do you mean by runtime polymorphism or dynamic method dispatch?
+
+12. Tell the difference between an error and an exception?
+
+13. What 3 types of domain controller does Exchange access?
+
+14. Which class is the immediate superclass of the Container class?
+
+15. When a thread is created and started, what is its initial state?
+
+16. Is it necessary that each try block must be followed by a catch block?
+
+17. What is the difference between Hard and Soft real-time systems?
+
+18. What are the Different methods of loading Dimension tables?
+
+19. Difference between varchar and varchar2 data types?
+
+20. What Is the difference between an Interface and an Abstract class?
